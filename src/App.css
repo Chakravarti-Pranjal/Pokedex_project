@@ -1,0 +1,14 @@
+#pokedex-heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+    align-items: center;
+}
+
+.Outer-pokedex{
+    display: flex;
+    flex-direction: column;
+}
+
+a:visited{
+    color: black;
+}
